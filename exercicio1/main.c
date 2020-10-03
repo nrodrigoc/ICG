@@ -8,7 +8,7 @@
  * ao inves de estarem hard coded no código fonte. 
  *     Isso da mais flexibilidade para se fazerem experimentos com os shaders, 
  * pois nao e necessario se recompilar o programa a cada vez que os shaders forem
- * alterados.
+ * alterados..
  ****************************************************************************/
 #include "main.h"
 
